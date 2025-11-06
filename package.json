@@ -80,6 +80,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "videojs-global-compat": "^1.0.1"
+    "@videojs/global-compat": "^1.0.1"
   }
 }
