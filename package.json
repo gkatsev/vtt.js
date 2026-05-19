@@ -16,7 +16,7 @@
     "async": "0.9.0",
     "browserify": "^14.3.0",
     "deumdify": "^1.2.4",
-    "difflet": "git://github.com/humphd/difflet.git#714b82706ad39d75275a886aeff637df5097626f",
+    "difflet": "https://github.com/humphd/difflet.git#714b82706ad39d75275a886aeff637df5097626f",
     "dive": "0.3.1",
     "grunt": "0.4.1",
     "grunt-bump": "0.0.14",
@@ -30,7 +30,7 @@
     "node-vtt": "1.1.7",
     "optimist": "0.6.1",
     "text-encoding": "0.1.0",
-    "underscore": "1.6.0",
+    "underscore": "^1.13.8",
     "watchify": "^3.9.0"
   },
   "files": [
